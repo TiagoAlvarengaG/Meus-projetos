@@ -2,5 +2,6 @@ Primerio projeto que fiz em HTML e CSS sem precisar ver videos
 (consultei algumas coisas no google de etapas que nao lembrava mas grande parte feito sem consultas)
 
 Utilizei o site Figma para pegar o design da pagina, mas o HTML e CSS eu mesmo fiz
+https://www.figma.com/design/vtqvmiZgv60jELZjScSTlW/Education-website-Landing-page-%7C-Full-website-design--Community-?node-id=0-1&p=f&t=IPwYDvCEP776AhZG-0
 
 Fiz esse projeto apenas para aprender e praticar
